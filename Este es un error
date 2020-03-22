@@ -1,0 +1,23 @@
+[33mcommit 368819fdc4bd0868b7ac4c7bfe13eaa8e4db2ab1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Marlon Ramirez <marlon.ramirezlizcano@gmail.com>
+Date:   Mon Mar 16 22:46:11 2020 -0500
+
+    Agregamos el cargo de la persona, la persona es Marlon
+
+[33mcommit 5f208d6dfcb2343a293cacb69adef06f1f19ce6e[m
+Author: Marlon Ramirez <marlon.ramirezlizcano@gmail.com>
+Date:   Mon Mar 16 22:41:24 2020 -0500
+
+    Este commit es extra, no se han hecho cambios grandes en el archivo
+
+[33mcommit 8119bd5c62f555a02e1941b42e65e170a811f6f4[m
+Author: Marlon Ramirez <marlon.ramirezlizcano@gmail.com>
+Date:   Mon Mar 16 22:30:34 2020 -0500
+
+    Cambios para reflejar edad correcta
+
+[33mcommit 7814ff5bda019b92f07ab7da37bdcd246ef6c811[m
+Author: Marlon Ramirez <marlon.ramirezlizcano@gmail.com>
+Date:   Mon Mar 16 22:26:38 2020 -0500
+
+    Este es el primer commit
